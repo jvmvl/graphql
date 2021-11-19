@@ -15,9 +15,9 @@ var schema = buildSchema(`
 
 var root = {
     name: () => 'Jamal Chahir',
-    age: () => 'over 29 years',
+    age: () => 'over 30 years',
     email: () => 'jamalchahir@hotmail.com',
-    github: () => 'https://github.com/xspid3r',
+    github: () => 'https://github.com/jvmvl',
     twitter: () => 'https://twitter.com/f4m0usb34u7y',
     employed: () => true
 };
